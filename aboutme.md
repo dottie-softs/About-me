@@ -26,3 +26,8 @@ print('Say hi to dottie-softs!')
 - [ ] Complete projects
 
 ### Donate website soon lol
+
+Contact:
+_Discord: sb.fr_
+
+_Telegram: soon_
